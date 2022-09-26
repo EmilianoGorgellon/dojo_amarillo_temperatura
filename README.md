@@ -1,0 +1,1 @@
+# dojo_amarillo_temperatura
