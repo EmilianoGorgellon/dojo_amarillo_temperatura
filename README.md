@@ -14,10 +14,10 @@
 
 
 ## Descripción
-En este parrafo deberan describir que funcion cumple su proyecto. Que solucion esta ofreciendo.
+La funcion del proyecto consiste en leer los valores de temperatura que da el sensor y activar los leds dependiendo de los valores que nos de
 
 ## Función principal
-Esta funcion se encarga de encender y apagar los leds.
+Esta funcion se encarga de leer el sensor de la temperatura y mostrar los datos por led y display de 7 segmentos.
 
 SENSOR_TEMPERATURA es un #define que utilizamos para leer los valores del sensor de temperatura asociado al pin de arduino. La funcion map permite que los valores del sensor pasarlos a grado celcius.
 
@@ -53,8 +53,8 @@ void loop()
 ~~~
 
 ## :robot: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/aOYiibnDjWu)
+- [proyecto](https://www.tinkercad.com/things/0U31T13dKQe-copy-of-empresa-frigorifica/editel?sharecode=Cw90pNXzL8RvYcMZEbBVsAhTxGaJD3d-tG8ycUFVjGc)
 ## :tv: Link al video del proceso
-- [video](https://www.youtube.com/watch?v=VyGjE8kx-O0)
+- [video](https://youtu.be/CsbndeN2B_U)
 
 ---
